@@ -8,4 +8,4 @@ __maintainer__ = "voirin"
 __email__ = "yves.voirin@geoimagesolutions.com"
 __status__ = "Development"
 
-print "ceci est un test"
+print "ceci est un test" # yves
