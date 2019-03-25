@@ -9,3 +9,5 @@ __email__ = "yves.voirin@geoimagesolutions.com"
 __status__ = "Development"
 
 print "ceci est un test" # yves
+
+print "Charlotte est la meillleure"
