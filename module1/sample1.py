@@ -10,5 +10,5 @@ __status__ = "Development"
 
 # fix for Python 3
 print("ceci est un test")
-# attention
+# attention, je suis un commentaire
 print('ok')
